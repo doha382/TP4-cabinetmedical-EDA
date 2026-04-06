@@ -5,21 +5,6 @@
 
 ---
 
-## 📋 Table des matières
-
-1. [Vue d'ensemble](#vue-densemble)
-2. [Architecture](#architecture)
-3. [Flux d'événements (Saga)](#flux-dévénements-saga)
-4. [Prérequis](#prérequis)
-5. [Structure du projet](#structure-du-projet)
-6. [Guide d'installation étape par étape](#guide-dinstallation-étape-par-étape)
-7. [Configuration des microservices](#configuration-des-microservices)
-8. [Démarrage de l'application](#démarrage-de-lapplication)
-9. [API Reference](#api-reference)
-10. [Tests](#tests)
-
----
-
 ## 🎯 Objectif
 
 Ce projet implémente une architecture **Event-Driven (EDA)** basée sur **Apache Kafka** pour la gestion d'un cabinet médical. Il remplace les appels REST synchrones du TP3 par une communication **asynchrone** via des événements.
