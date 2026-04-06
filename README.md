@@ -159,7 +159,7 @@ cabinetMedicalTp4EDA/
 │   ├── Dockerfile
 │   └── pom.xml
 │
-├── medecin-service/          (structure identique à patient-service)
+├── medecin-service/          
 │
 ├── rendezvous-service/
 │   ├── src/main/java/ma/fsr/eda/rendezvousservice/
@@ -176,8 +176,8 @@ cabinetMedicalTp4EDA/
 │   │   └── config/...
 │   └── pom.xml
 │
-├── consultation-service/     (structure similaire)
-└── billing-service/          (structure similaire)
+├── consultation-service/     
+└── billing-service/          
 ```
 
 ---
